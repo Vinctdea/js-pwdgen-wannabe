@@ -1,12 +1,13 @@
 main{
     background-image: url('https://www.phersei.com/images/blog/hacker-cover.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
     height: 100vh;
     padding: 10%;
     text-align: right;
    color: white;
     
 }
-
 
 span{
     color: coral;
